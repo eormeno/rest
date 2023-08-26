@@ -10,7 +10,7 @@ let inputElements = {};
 let elementRender = {};
 
 window.onload = function () {
-   document.getElementById("version").innerHTML = "BUILDeF - Version 1.0.0";
+   document.getElementById("version").innerHTML = "BUILDeF - Version 1.0.0 - Instituto de Informática - UNSJ - 2023";
    updateState({ reload: true });
 };
 
